@@ -1,0 +1,25 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/925dbb10-1a11-11eb-9a34-4f93b3c3687e/765353/126827152.jpg" group-title="BeIN Spoorts", BeIN 1
+https://vt.vttpi.com:8443/608209303104479/892084537081313/1
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/925dbb10-1a11-11eb-9a34-4f93b3c3687e/765353/126827153.jpg" group-title="BeIN Spoorts", BeIN 2
+https://vt.vttpi.com:8443/608209303104479/892084537081313/33
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/925dbb10-1a11-11eb-9a34-4f93b3c3687e/765353/126827154.jpg" group-title="BeIN Spoorts", BeIN 3
+https://vt.vttpi.com:8443/608209303104479/892084537081313/20
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/925dbb10-1a11-11eb-9a34-4f93b3c3687e/765353/126827155.jpg" group-title="BeIN Spoorts", BeIN 4
+https://vt.vttpi.com:8443/608209303104479/892084537081313/22
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/925dbb10-1a11-11eb-9a34-4f93b3c3687e/765353/126827156.jpg" group-title="BeIN Spoorts", BeIN 5
+https://vt.vttpi.com:8443/608209303104479/892084537081313/23
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/925dbb10-1a11-11eb-9a34-4f93b3c3687e/765353/126827157.jpg" group-title="BeIN Spoorts", BeIN 6
+https://vt.vttpi.com:8443/608209303104479/892084537081313/24
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/925dbb10-1a11-11eb-9a34-4f93b3c3687e/765353/126827158.jpg" group-title="BeIN Spoorts", BeIN 7
+https://vt.vttpi.com:8443/608209303104479/892084537081313/25
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/925dbb10-1a11-11eb-9a34-4f93b3c3687e/765353/126827159.jpg" group-title="BeIN Spoorts", BeIN 8
+https://vt.vttpi.com:8443/608209303104479/892084537081313/26
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/925dbb10-1a11-11eb-9a34-4f93b3c3687e/765353/126827160.jpg" group-title="BeIN Spoorts", BeIN 9
+https://vt.vttpi.com:8443/608209303104479/892084537081313/27
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/925dbb10-1a11-11eb-9a34-4f93b3c3687e/765353/126827161.jpg" group-title="BeIN Spoorts", BeIN 10
+https://vt.vttpi.com:8443/608209303104479/892084537081313/28
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/925dbb10-1a11-11eb-9a34-4f93b3c3687e/765353/126827161.jpg" group-title="BeIN Spoorts", Al Jazeera Arabic
+https://vt.vttpi.com:8443/608209303104479/892084537081313/162
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/925dbb10-1a11-11eb-9a34-4f93b3c3687e/765353/126827161.jpg" group-title="BeIN Spoorts", Al Arabiya
+https://vt.vttpi.com:8443/608209303104479/892084537081313/164
